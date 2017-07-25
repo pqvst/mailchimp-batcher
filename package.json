@@ -1,0 +1,17 @@
+{
+  "name": "mailchimp-batcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "getstring": "^0.2.1",
+    "lodash": "^4.17.4",
+    "mailchimp-v3": "^1.0.5"
+  }
+}
